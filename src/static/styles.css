@@ -152,6 +152,7 @@ footer {
 .participants-list {
   list-style: none;
   margin-top: 10px;
+  padding: 0;
 }
 
 .participants-list li {
@@ -180,18 +181,6 @@ footer {
 .delete-btn:hover {
   transform: scale(1.2);
   background-color: transparent;
-}
-
-.no-participants {
-  color: #999;
-  font-style: italic;
-  margin-top: 10px;
-}
-
-.participants-list {
-  margin-top: 10px;
-  padding: 0;
-  list-style: none;
 }
 
 .no-participants {
