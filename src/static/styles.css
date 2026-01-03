@@ -194,12 +194,6 @@ footer {
   list-style: none;
 }
 
-.participants-list li {
-  margin: 5px 0;
-  color: #555;
-  font-size: 0.9em;
-}
-
 .no-participants {
   margin: 8px 0 0 0;
   color: #999;
